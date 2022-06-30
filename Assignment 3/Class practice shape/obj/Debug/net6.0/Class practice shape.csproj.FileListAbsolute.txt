@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\bin\Debug\net6.0\Class practice shape.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\bin\Debug\net6.0\Class practice shape.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\bin\Debug\net6.0\Class practice shape.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\bin\Debug\net6.0\Class practice shape.dll
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\bin\Debug\net6.0\Class practice shape.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.dll
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\refint\Class practice shape.dll
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\Class practice shape.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Assignment 3\Class practice shape\obj\Debug\net6.0\ref\Class practice shape.dll

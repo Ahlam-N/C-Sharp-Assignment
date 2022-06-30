@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Class practice shape\\Class practice shape\\Class practice shape.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Assignment 3\\Class practice shape\\Class practice shape.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Class practice shape\\Class practice shape\\Class practice shape.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Assignment 3\\Class practice shape\\Class practice shape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Class practice shape\\Class practice shape\\Class practice shape.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Assignment 3\\Class practice shape\\Class practice shape.csproj",
         "projectName": "Class practice shape",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Class practice shape\\Class practice shape\\Class practice shape.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Assignment 3\\Class practice shape\\Class practice shape.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Class practice shape\\Class practice shape\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Computer Science\\4\\c#\\GitHub Assignment\\C-Sharp-Assignment\\Assignment 3\\Class practice shape\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
