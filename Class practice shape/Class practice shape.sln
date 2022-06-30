@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class practice shape", "Class practice shape\Class practice shape.csproj", "{AB24040C-9A1A-49C0-93D1-A4EEB7FE94DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB24040C-9A1A-49C0-93D1-A4EEB7FE94DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB24040C-9A1A-49C0-93D1-A4EEB7FE94DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB24040C-9A1A-49C0-93D1-A4EEB7FE94DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB24040C-9A1A-49C0-93D1-A4EEB7FE94DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFFA797-8677-4E14-A39A-1B2C92FB6EEC}
+	EndGlobalSection
+EndGlobal

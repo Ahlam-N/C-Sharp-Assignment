@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\bin\Debug\net6.0\Class Practice.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\bin\Debug\net6.0\Class Practice.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\bin\Debug\net6.0\Class Practice.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\bin\Debug\net6.0\Class Practice.dll
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\bin\Debug\net6.0\Class Practice.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.dll
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\refint\Class Practice.dll
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\Class Practice.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\C-Sharp-Assignment\Class Practice\Class Practice\obj\Debug\net6.0\ref\Class Practice.dll
